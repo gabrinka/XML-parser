@@ -1,0 +1,34 @@
+<CATALOG id=2 >
+ <PLANT id=3 >
+  <COMMON id=4 >Bloodroot</COMMON>
+  <BOTANICAL id=5 >Sanguinaria</BOTANICAL>
+  <ZONE id=6 >4</ZONE>
+  <LIGHT id=7 >Mostly</LIGHT>
+  <PRICE id=8 >$2.44</PRICE>
+  <AVAILABILITY id=9 >031599</AVAILABILITY>
+ </PLANT>
+ <PLANT id=10 >
+  <COMMON id=11 >Columbine</COMMON>
+  <BOTANICAL id=12 >Aquilegia</BOTANICAL>
+  <ZONE id=13 >3</ZONE>
+  <LIGHT id=14 >Mostly</LIGHT>
+  <PRICE id=15 >$9.37</PRICE>
+  <AVAILABILITY id=16 >030699</AVAILABILITY>
+ </PLANT>
+ <PLANT id=17 >
+  <COMMON id=18 >Marsh</COMMON>
+  <BOTANICAL id=19 >Caltha</BOTANICAL>
+  <ZONE id=20 >4</ZONE>
+  <LIGHT id=21 >Mostly</LIGHT>
+  <PRICE id=22 >$6.81</PRICE>
+  <AVAILABILITY id=23 >051799</AVAILABILITY>
+ </PLANT>
+ <PLANT id=24 >
+  <COMMON id=25 >Cowslip</COMMON>
+  <BOTANICAL id=26 >Caltha</BOTANICAL>
+  <ZONE id=27 >4</ZONE>
+  <LIGHT id=28 >Mostly</LIGHT>
+  <PRICE id=29 >$9.90</PRICE>
+  <AVAILABILITY id=30 >030699</AVAILABILITY>
+ </PLANT>
+</CATALOG>

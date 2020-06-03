@@ -1,0 +1,11 @@
+<people id="4">
+ <person id="0">
+  <name id="5">John</name>
+  <address id="6">USA</address>
+ </person>
+ <person id="1">
+  <name id="7">Ivan</name>
+  <address id="8">Bulgaria</address>
+  <person id="1_2"></person>
+ </person>
+</people>

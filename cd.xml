@@ -1,0 +1,15 @@
+<breakfast_menu id="2">
+ <food id="3">
+  <name id="4">Belgian</name>
+  <price id="5">$5.95</price>
+  <description id="6">Two</description>
+  <calories id="7">650</calories>
+ </food>
+ <food id="8">
+  <name id="9">Strawberry</name>
+  <price id="10">$7.95</price>
+  <description id="11">Light</description>
+  <calories id="12">900</calories>
+  <food id="8_4"></food>
+ </food>
+</breakfast_menu>
